@@ -1,3 +1,3 @@
 Links
 
-- Website: https://restudiosoftwarelaboratories.github.io/Restudio-Calender/
+- Website: https://restudiosoftwarelaboratories.github.io/Restudio-Calendar/
